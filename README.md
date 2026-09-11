@@ -1,6 +1,6 @@
 ## Welcome to Kailash Shankar's GitHub 👋
 
-Hi! My name is Kailash Shankar, and I am a junior at the University of Florida majoring in Computer Science with a minor in Linguistics. I am the Founder and CEO of **Lingua** 🐦, an AI Language Education Platform for World Language classrooms, serving over 2000+ teachers and students. You can visit the site at https://www.linguaclassroom.com/.
+Hi! My name is Kailash Shankar, and I am a junior at the **University of Florida**🐊 majoring in Computer Science with a minor in Linguistics. I am the Founder and CEO of **Lingua** 🐦, an AI Language Education Platform for World Language classrooms, serving over 2000+ teachers and students. You can visit the site at https://www.linguaclassroom.com/.
 
 This past summer, I interned at **GlobalLogic**🌍 as an **_AI Engineering Intern_**, where I worked on end-to-end industry-scale Agentic AI systems, and built **Potentia**⚡, a Learning Management System for any subject, allowing teachers to build and grade assignments in seconds. You can visit the site at https://potentiaclassroom.com/.
 

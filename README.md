@@ -6,7 +6,7 @@ This past summer, I interned at **GlobalLogic**🌍 as an **_AI Engineering Inte
 
 Additionally, I do research in the **UF Computational Linguistics Lab**🖥️ where I examine the relationship between training data size, annotation quality, and model performance when training LLMs on data from low-resource languages.
 
-As Lingua was developed as part of my startup (Integra EdTech LLC, D.B.A Lingua), and Potentia was built as part of my internship at GlobalLogic, neither of those repos are publicly available to view. However please visit their sites to learn more about how they work. Or you can explore the publicly available repos from some other smaller projects I have built.
+As Lingua was developed as part of my startup (Integra EdTech LLC, D.B.A Lingua), and Potentia was built as part of my internship at GlobalLogic, neither of those repos are publicly available to view, so please visit their sites to learn more about how they work. Or you can explore the publicly available repos from some other smaller projects I have built.
 
 I encourage you to visit my full portfolio website at https://kailashshankar.com/.
 

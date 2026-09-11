@@ -6,6 +6,8 @@ This past summer, I interned at GlobalLogic as an AI Engineering Intern, where I
 
 As Lingua was developed as part of my startup (Integra EdTech LLC, D.B.A Lingua), and Potentia was built as part of my internship at GlobalLogic, neither of those repos are publically available to view. However please visit their sites to learn more about how they work. Or you can explore the publically available repos from some other smaller projects I have built.
 
+I encourage you to visit my full portfolio website at https://kailashshankar.com/.
+
 
 
 
